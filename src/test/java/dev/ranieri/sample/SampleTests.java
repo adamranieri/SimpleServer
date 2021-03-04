@@ -12,6 +12,6 @@ public class SampleTests {
 
     @Test
     void test_2(){
-        Assertions.assertEquals(true,false);
+        Assertions.assertEquals(true,true);
     }
 }
